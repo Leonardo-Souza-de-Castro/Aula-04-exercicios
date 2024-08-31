@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/uniflcastro/Documents/NetBeansProjects/Aula04Ex01/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/uniflcastro/Documents/NetBeansProjects/Aula04Ex01/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Aula04Ex01 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Aula04Ex01 1.0-SNAPSHOT API'
+com.mycompany.aula04ex01
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\src\main\java = 1725102210766
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\allclasses-index.html = 1725103828273
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\allpackages-index.html = 1725103828282
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\copy.svg = 1725103828927
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\element-list = 1725103828187
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\help-doc.html = 1725103828886
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\index-all.html = 1725103828322
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\index.html = 1725103828860
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\jquery-ui.overrides.css = 1725103829026
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\member-search-index.js = 1725103828304
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\module-search-index.js = 1725103828288
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\overview-tree.html = 1725103828256
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\package-search-index.js = 1725103828294
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\script.js = 1725103828919
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\search.js = 1725103828933
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\stylesheet.css = 1725103828909
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\tag-search-index.js = 1725103828310
+C:\Users\uniflcastro\Documents\NetBeansProjects\Aula04Ex01\target\reports\apidocs\type-search-index.js = 1725103828298
